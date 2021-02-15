@@ -1,13 +1,14 @@
 {
   "headline": "From baby carriage food carts to fusion soul food spots: A look into Harlem’s complex restaurant scene",
-  "date": "October 17, 2019",
-  "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
+  "date": "February 15, 2020",
+  "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Noah-Sheidlower/\">Noah Sheidlower</a>",
   "top": [
     {
       "type": "graphic",
       "value": {
-        "asset": "map.html",
+        "asset": "food-map.html",
         "steps": [
+          "Intro to scrolly?",
           "Sylvia’s Restaurant, “The Queen of Soul Food,” was founded in 1962 by Sylvia Woods, serving soul food classics to the Harlem community like fried chicken and bar-b-que ribs for nearly six decades. This iconic restaurant has attracted figures like Barack Obama, Nelson Mandela, Bill Clinton, Whoopi Goldberg, and countless other celebrities.",
           "Founded in 1998, Amy Ruth’s helped expand the popularity of chicken and waffles in Harlem as well as other waffle pairings like fried catfish or pork chop. The institution takes its name from the founders’ grandmother Amy Ruth Moore Bass, a native Alabamian and mother of 10 children who “taught all of her children and grandchildren how to love each other, to look out for one another, and to respect themselves as well as others.”",
           "Melba’s, opened by Harlem native Melba Wilson in 2005, helped keep Harlem’s soul food traditions alive through options like Southern chicken and fusion dishes like soul food spring rolls. After working at Sylvia’s, Wilson decided to apply her business knowledge to a more contemporary spot. Wilson now leads the NYC Hospitality Alliance.",
@@ -39,11 +40,7 @@
     },
     {
       "type": "text",
-      "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
-    },
-    {
-      "type": "text",
-      "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+      "value": "<i>Arts & Entertainment editor Noah Sheidlower can be contacted </i><a href=\"mailto:noah.sheidlower@columbiaspectator.com\"><i>noah.sheidlower@columbiaspectator.com</i></a><i>.</i><i> Follow him on Twitter </i><a href=\"https://twitter.com/NSheidlower\"><i>@NSheidlower</i></a><i>.</i>"
     }
   ]
 }

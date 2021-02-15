@@ -18,6 +18,9 @@
   },
   "dependencies": {
     "intersection-observer": "^0.10.0",
+    "mapbox": "^1.0.0-beta10",
+    "mapbox-gl": "^2.1.1",
+    "scrollama": "^2.2.1",
     "text-balancer": "^1.0.5"
   },
   "browserslist": [

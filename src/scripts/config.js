@@ -7,10 +7,6 @@ var config = {
     markerColor: '#3FB1CE',
     theme: 'dark',
     use3dTerrain: true,
-    title: 'Harlem Food History',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By Noah Sheidlower',
-    footer: 'Source: source citations, etc.',
     chapters: [
         {
             id: 'slug-style-id',
@@ -214,6 +210,12 @@ var config = {
 };
 
 var steps = Doc.top[0].value.steps;
-steps.forEach(function(element, index) {
+steps.forEach(function (element, index) {
     config.chapters[index].description = element;
 })
+
+console.log(config)
+
+module.exports = {
+    config
+};
