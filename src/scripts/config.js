@@ -1,5 +1,4 @@
 import Doc from "../../data/doc.json";
-import mapboxgl from 'mapbox-gl';
 
 var config = {
     style: 'mapbox://styles/mapbox/dark-v9',
