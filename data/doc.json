@@ -1,1 +1,49 @@
-{}
+{
+  "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
+  "date": "October 17, 2019",
+  "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
+  "top": [
+    {
+      "type": "graphic",
+      "value": {
+        "asset": "map.html",
+        "steps": [
+          "Sylvia’s Restaurant, “The Queen of Soul Food,” was founded in 1962 by Sylvia Woods, serving soul food classics to the Harlem community like fried chicken and bar-b-que ribs for nearly six decades. This iconic restaurant has attracted figures like Barack Obama, Nelson Mandela, Bill Clinton, Whoopi Goldberg, and countless other celebrities.",
+          "Founded in 1998, Amy Ruth’s helped expand the popularity of chicken and waffles in Harlem as well as other waffle pairings like fried catfish or pork chop. The institution takes its name from the founders’ grandmother Amy Ruth Moore Bass, a native Alabamian and mother of 10 children who “taught all of her children and grandchildren how to love each other, to look out for one another, and to respect themselves as well as others.”",
+          "Melba’s, opened by Harlem native Melba Wilson in 2005, helped keep Harlem’s soul food traditions alive through options like Southern chicken and fusion dishes like soul food spring rolls. After working at Sylvia’s, Wilson decided to apply her business knowledge to a more contemporary spot. Wilson now leads the NYC Hospitality Alliance.",
+          "Celebrity chef Marcus Samuelsson, alongside Andrew Chapman, opened Red Rooster to celebrate the culinary traditions of Harlem’s diverse cultures. The restaurant takes its name from the legendary Harlem speakeasy that attracted figures like James Baldwin and Nat King Cole.",
+          "The Cotton Club, originally located on 142nd Street and Lenox Avenue, was one of the most popular venues for Black entertainers of the 1920s and 1930s, from Duke Ellington to Louis Armstrong to Billie Holliday. The Cotton Club also served soul food classics like fried chicken with candied yams, as well as American bistro fare and even a number of Chinese-American dishes.",
+          "Seasoned Vegan is one of Harlem’s first vegan soul food spots, owned by Chef Brenda Beener. Recently, vegan soul food has gained popularity as a healthier alternative to the hearty soul food classics, and Seasoned Vegan has been at the forefront serving dishes like BBQ soy “crawfish” and baked mac ‘n cheese.",
+          "Tsion Cafe is one of the city’s only Ethiopian-Israeli restaurants, owned by Beta Israel member Beejhy Barhany. Dishes like Israeli shakshuka take an Ethiopian twist with berbere spices, while their Ethiopian lamb goulash incorporates traditional slow-cooked Ethiopian lamb with Middle Eastern and Central European influences.",
+          "Also at the forefront of culinary fusion, Harlem newcomer Archer & Goat serves inventive dishes like countries like Ecuador, Puerto Rico, and Bangladesh. Dishes found nowhere else in the city include chicken vindaloo arepas and lamb Rogan Josh with pappardelle and avocado vinaigrette.",
+          "Harlem’s small cultural enclave of Little Senegal began to develop in the late 1980s and continues to be a vibrant community for West African immigrants in West Harlem. Notable restaurants serving the hard-to-find cuisine include Pikine and Le Baobab Gouygui, and the area also features the city’s only Somalian restaurant, Safari.",
+          "The Schomburg Center, a branch of the New York Public Library, is a leading research library and archive repository for Black culture and history globally. The center features a large selection of takeout menus from Harlem dating back over a century, as well as historic cookbooks and letters by Harlem chefs. Additionally, the center’s namesake Arturo Schomburg also wrote an unfinished cookbook that has recently been unearthed."
+        ]
+      }
+    }
+  ],
+  "body": [
+    {
+      "type": "text",
+      "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+    },
+    {
+      "type": "text",
+      "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+    },
+    {
+      "type": "graphic",
+      "value": {
+        "asset": ""
+      }
+    },
+    {
+      "type": "text",
+      "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
+    },
+    {
+      "type": "text",
+      "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+    }
+  ]
+}
