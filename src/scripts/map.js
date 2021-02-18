@@ -244,7 +244,7 @@ export default function () {
         {
             'type': 'Feature',
             'properties': {
-                'description': 'Schomburg Center for Research and Black Culture',
+                'description': 'Schomburg Center for Research in Black Culture',
             },
             'geometry': {
                 'type': 'Point',

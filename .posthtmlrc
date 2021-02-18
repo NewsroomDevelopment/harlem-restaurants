@@ -12,29 +12,370 @@
             "value": {
               "asset": "food-map.html",
               "steps": [
-                "Intro to scrolly?",
-                "Sylvia’s Restaurant, “The Queen of Soul Food,” was founded in 1962 by Sylvia Woods, serving soul food classics to the Harlem community like fried chicken and bar-b-que ribs for nearly six decades. This iconic restaurant has attracted figures like Barack Obama, Nelson Mandela, Bill Clinton, Whoopi Goldberg, and countless other celebrities.",
+                "This is Harlem, one of the city’s most diverse neighborhoods and an epicenter for Black foodways in the Northeast. From Ethiopian to Senegalese to Jamaican, Harlem’s food scene is informed by its rich culinary history.",
+                "Sylvia’s Restaurant, “The Queen of Soul Food,” was founded in 1962 by Sylvia Woods, serving soul food classics to the Harlem community like fried chicken and barbecue ribs. This iconic restaurant has attracted figures like Barack Obama, Nelson Mandela, Bill Clinton, Whoopi Goldberg, and countless other celebrities.",
                 "Founded in 1998, Amy Ruth’s helped expand the popularity of chicken and waffles in Harlem as well as other waffle pairings like fried catfish or pork chop. The institution takes its name from the founders’ grandmother Amy Ruth Moore Bass, a native Alabamian and mother of 10 children who “taught all of her children and grandchildren how to love each other, to look out for one another, and to respect themselves as well as others.”",
                 "Melba’s, opened by Harlem native Melba Wilson in 2005, helped keep Harlem’s soul food traditions alive through options like Southern chicken and fusion dishes like soul food spring rolls. After working at Sylvia’s, Wilson decided to apply her business knowledge to a more contemporary spot. Wilson now leads the NYC Hospitality Alliance.",
                 "Celebrity chef Marcus Samuelsson, alongside Andrew Chapman, opened Red Rooster to celebrate the culinary traditions of Harlem’s diverse cultures. The restaurant takes its name from the legendary Harlem speakeasy that attracted figures like James Baldwin and Nat King Cole.",
-                "The Cotton Club, originally located on 142nd Street and Lenox Avenue, was one of the most popular venues for Black entertainers of the 1920s and 1930s, from Duke Ellington to Louis Armstrong to Billie Holliday. The Cotton Club also served soul food classics like fried chicken with candied yams, as well as American bistro fare and even a number of Chinese-American dishes.",
-                "Seasoned Vegan is one of Harlem’s first vegan soul food spots, owned by Chef Brenda Beener. Recently, vegan soul food has gained popularity as a healthier alternative to the hearty soul food classics, and Seasoned Vegan has been at the forefront serving dishes like BBQ soy “crawfish” and baked mac ‘n cheese.",
-                "Tsion Cafe is one of the city’s only Ethiopian-Israeli restaurants, owned by Beta Israel member Beejhy Barhany. Dishes like Israeli shakshuka take an Ethiopian twist with berbere spices, while their Ethiopian lamb goulash incorporates traditional slow-cooked Ethiopian lamb with Middle Eastern and Central European influences.",
-                "Also at the forefront of culinary fusion, Harlem newcomer Archer & Goat serves inventive dishes like countries like Ecuador, Puerto Rico, and Bangladesh. Dishes found nowhere else in the city include chicken vindaloo arepas and lamb Rogan Josh with pappardelle and avocado vinaigrette.",
-                "Harlem’s small cultural enclave of Little Senegal began to develop in the late 1980s and continues to be a vibrant community for West African immigrants in West Harlem. Notable restaurants serving the hard-to-find cuisine include Pikine and Le Baobab Gouygui, and the area also features the city’s only Somalian restaurant, Safari.",
-                "The Schomburg Center, a branch of the New York Public Library, is a leading research library and archive repository for Black culture and history globally. The center features a large selection of takeout menus from Harlem dating back over a century, as well as historic cookbooks and letters by Harlem chefs. Additionally, the center’s namesake Arturo Schomburg also wrote an unfinished cookbook that has recently been unearthed."
+                "The Cotton Club, originally located on 142nd Street and Lenox Avenue, was one of the most popular venues for Black entertainers of the 1920s and 1930s, from Duke Ellington to Louis Armstrong to Billie Holliday. The Cotton Club also served soul food classics like fried chicken with candied yams, American bistro fare, and even a number of Chinese-American dishes.",
+                "Seasoned Vegan is one of Harlem’s first vegan soul food spots, owned by Chef Brenda Beener. Recently, vegan soul food has gained popularity as a healthier alternative to the hearty classics, and Seasoned Vegan has been at the forefront serving dishes like barbecue soy “crawfish” and baked mac & cheese.",
+                "Tsion Cafe is one of the city’s only Ethiopian-Israeli restaurants, owned by Beta Israel member Beejhy Barhany. Dishes like Israeli shakshuka take an Ethiopian twist with berbere spices, while their lamb goulash incorporates traditional slow-cooked Ethiopian lamb with Middle Eastern and Central European influences.",
+                "Also at the forefront of culinary fusion, Harlem newcomer Archer & Goat serves inventive dishes from countries like Ecuador, Puerto Rico, and Bangladesh. Dishes found nowhere else in the city include chicken vindaloo arepas and lamb Rogan Josh with pappardelle and avocado vinaigrette.",
+                "Harlem’s small cultural enclave of Little Senegal began to develop in the late 1980s and continues to be a vibrant community for West African immigrants in West Harlem. Notable restaurants serving the hard-to-find cuisine include Pikine and Le Baobab Gouygui, and the area also features one of the city’s only Somalian restaurants, Safari.",
+                "The Schomburg Center, a branch of the New York Public Library, is a leading research library and archive repository for Black culture and history globally. The center features a large Harlem takeout menu collection dating back over a century, as well as historic cookbooks and letters by Harlem chefs. The center’s namesake, Arturo Schomburg, also wrote an unfinished cookbook that has recently been unearthed."
               ]
             }
           }
         ],
         "body": [
           {
-            "type": "text",
-            "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+            "type": "image",
+            "value": {
+              "width": "auto",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/RMHTSN45KVEQVNJJ5MS76VDNBY.png",
+              "caption": "From soul food to Ethiopian cuisine to Senegalese dishes, Harlem’s food scene captures the complexities of Harlem’s rich culinary history, which blossomed starting with the Harlem Renaissance.",
+              "credit": "Jules Michaud"
+            }
           },
           {
             "type": "text",
-            "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+            "value": "The flaky fish and tomato rice of Senegalese restaurant Le Baobab Gouygui’s thiebou djeun. The sweetness and fluffiness of Tsion Cafe’s spin on the Yemeni pastry malawach. The spicy and tangy bisbaas hot sauce in Safari Restaurant’s Somali goat dish, hilib ari. The golden-brown fried chicken paired with eggnog waffles at Melba’s."
+          },
+          {
+            "type": "text",
+            "value": "This is Harlem, one of New York City’s most diverse neighborhoods and an epicenter for Black foodways in the Northeast informed by its rich culinary history."
+          },
+          {
+            "type": "text",
+            "value": "According to Valerie Wilson, founder of ValincPR which works closely with Harlem programs like Harlem Park to Park, Harlem has evolved to have a wide variety of international fare, from Indian to Italian to West African. “[Harlem] really is a wonderful snapshot of all of the cultures that make up our city,” Wilson said."
+          },
+          {
+            "type": "text",
+            "value": "Jenifar Chowdhury, who co-owns Ecuadorian-Puerto Rican-Bangladeshi fusion spot Archer & Goat, noted that Harlem “exploded” over the last decade in terms of new restaurants and culinary innovations."
+          },
+          {
+            "type": "text",
+            "value": "“When I first moved here, Red Rooster hadn't even opened yet, and I think Red Rooster kind of helped usher in a new age of restaurants in Harlem … [with] a huge array of cultures being represented among restaurants here,” Chowdhury said. “We just found it to be an exciting time to kind of contribute to this kind of boom that’s been happening in Harlem the last decade or so.”"
+          },
+          {
+            "type": "text",
+            "value": "Tsion Cafe, an Ethiopian-Israeli restaurant in Harlem’s Sugar Hill neighborhood, has also contributed to Harlem’s culinary fusion, crafting a menu that pays homage to owner Beejhy Barhany’s identity as part of the Beta Israel community. “It’s a very exciting time for diversity, uniqueness, and inclusion for people to really open their horizon and open their mind and interact and learn about the different ethnic groups that are in Harlem,” Barhany said. “The best tool to open people's hearts is through food: It’s very simple. Everybody loves to eat, and when you experience and try out our ethnic foods, you are more receptive to respecting, learning about them, and understanding them, and that can lead to a very harmonious way of interaction with the different, unique restaurants and ethnic groups that are here.”"
+          },
+          {
+            "type": "text",
+            "value": "However, when Harlem first began to develop as a center for Black culture over a century ago, it was much harder for Black chefs to open up businesses and make a name for themselves."
+          },
+          {
+            "type": "text",
+            "value": "<b>The Great Migration and Harlem Renaissance</b>"
+          },
+          {
+            "type": "text",
+            "value": "The Harlem we know today as one of the city’s most diverse communities developed during the Great Migration, the early 20th-century movement of Black people to Northern industrial cities for better economic opportunities and to escape increasing threats of violence and persecution in the South. Along with this mass migration came the beginnings of Black culinary traditions in the North."
+          },
+          {
+            "type": "text",
+            "value": "“Harlem is a product of the Great Migration, Black Harlem essentially, because it really comes into being at around the same time with the turnover from the Dutch and European, who were originally there, into the African Americans,” Jessica B. Harris, James Beard Award-winning author and culinary historian, said."
+          },
+          {
+            "type": "text",
+            "value": "Although the term “soul food” was coined in the 1940s, soul food’s roots date back to the pre-Civil War era. Soul food originated in the Deep South and drew influence from Native American cuisine, and began using foods given to enslaved African Americans on plantations."
+          },
+          {
+            "type": "text",
+            "value": "According to Adrian Miller, James Beard Award-winning author and self-proclaimed “Soul Food Scholar,” white slaveholders tried to control how much food and what types of foods enslaved people could eat. Common foods included collard greens, beets, and sweet potatoes. However, in order to work long hours on plantations, enslaved people needed to consume high-calorie foods, so they were also allotted rations of cornmeal and pork that would later be incorporated into dishes like cornbread, fried catfish, and ribs."
+          },
+          {
+            "type": "text",
+            "value": "“Part of the soul food story is how African Americans resisted those efforts in how they showed resilience and ingenuity in terms of gardening, farming, hunting, foraging, and fishing to supplement their diet,” Miller said."
+          },
+          {
+            "type": "text",
+            "value": "Before the turn of the 20th century, soul food began to reach northern cities. According to Harris, Black New Yorkers began to move uptown in this period from areas like the Tenderloin district and present-day Greenwich Village. The movement to streets like Lenox Avenue was met with resistance and eventual flight from white residents, leaving Harlem vacant for Black tenants."
+          },
+          {
+            "type": "text",
+            "value": "“When migrants showed up in places like New York City, they often didn’t have a kitchen. I mean they were basically in tenement apartments, slums, where [there was] a very very basic setup, and you had to pay extra money to have access to a kitchen,” Miller said. “So I think because of that, a lot of people that moved to Harlem kind of relied on dining out, street food, and other things.”"
+          },
+          {
+            "type": "text",
+            "value": "Miller noted that soul food arrived in waves to Harlem, in part due to racially-restrictive covenants and high rents that made owning a storefront particularly challenging. In her book “High on the Hog,” Harris describes Harlem apartments as “hastily subdivided with flimsy walls and narrow hallways” with higher prices than those in other neighborhoods."
+          },
+          {
+            "type": "text",
+            "value": "“The first kind of iterations of soul food were street vendors who were selling things that people just couldn't get on the regular, like watermelons, okra, Southern greens, all of these things so that these newly arrived migrants could say, ‘Oh okay, that’s a little taste of home,’” Miller said. “And then another important wave were restaurants. Some of them were very rudimentary, but soon enough, some really well-established restaurants [developed].”"
+          },
+          {
+            "type": "text",
+            "value": "Street food was a particularly normal part of daily life at the time, according to Megan Elias, an associate professor of the practice and the director of the gastronomy program at Boston University. Elias said that sitting down in a restaurant was not part of mainstream New York City culture until post-World War II, with indoor dining reserved for the elite."
+          },
+          {
+            "type": "text",
+            "value": "“What there was [in the early 1900s] was a very complex, very rich—not financially, but culturally—street food scene,” Elias said. “So you could get anything on any corner, except for in the residential neighborhoods. There were people selling all kinds of food all over the city from carts. … You can get a cart, just a couple of pieces of wood and some wheels, and put some food in it and sell it for cheap.”"
+          },
+          {
+            "type": "text",
+            "value": "According to Elias, many Black migrants brought a kind of “collective spirit” with them to Harlem. Some of the earliest food businesses in Harlem revolved around “very informal group child care,” in which Harlem residents, particularly women, would take care of children and prepare meals for them while their parents were at work."
+          },
+          {
+            "type": "text",
+            "value": "According to Elias, the Harlem community provided for itself because racist structures in the city prevented Black residents from renting businesses or having clientele beyond their immediate community. Street food became a way for Black chefs and businessmen to supply others with food without having to apply for licensing."
+          },
+          {
+            "type": "text",
+            "value": "“In 1920s and 1930s New York, you were very unlikely to make a living as a restaurant owner because your clientele was going to be extremely limited. It was just going to be people in your neighborhood, and those people were probably not going to have a lot of disposable income,” Elias said. “So what that meant was that there were just a lot more informal setups, food for sale, people feeding each other.”"
+          },
+          {
+            "type": "text",
+            "value": "One of the most successful street vendors at the time was Lillian Harris Dean, who took the name Pig Foot Mary after arriving in Harlem and establishing her business. Dean sold traditional foods like pigs’ feet and chitterlings out of a repurposed baby carriage. For 16 years, she stood at the corner of Lenox Avenue and 135th Street, purchasing a cook cart along the way. She would eventually marry the owner of a nearby newsstand and go into real estate."
+          },
+          {
+            "type": "text",
+            "value": "“I think she’s become emblematic of a certain kind of entrepreneurship that existed particularly with people in the Great Migration…” Harris said. “I think that Pig Foot Mary in that sense has become kind of one that stands for the many.”"
+          },
+          {
+            "type": "text",
+            "value": "In her book, Harris also described figures like Patsy Randolph, who collected watermelon rinds and other castoffs from restaurants and shops in Harlem and resold them as pickles, pepper sauces, and relishes. Ralph Ellison’s novel “Invisible Man” captured Harlem’s street food scene with descriptions of street vendors selling roasted sweet potatoes. In uptown markets, leafy greens like collards were more popular than vegetables like broccoli, and chitterlings added a “pungent odor” to the marketplace."
+          },
+          {
+            "type": "text",
+            "value": "The 1920s also saw the emergence of Caribbean and West Indian food vendors in Harlem. These vendors sold tropical fruits like pineapples and coconuts as well as the “less noble parts of the pig.” During this era, West Indian churches—and therefore food—thrived in Harlem, and Harlem also saw the development of small Haitian enclaves who came to the United States following the American occupation of Haiti."
+          },
+          {
+            "type": "text",
+            "value": "“What often eludes us is that there was a strong West Indian community in Harlem, partly in what was then called the Latin Quarter that we now call East Harlem, but their role in food was more as greengrocers, who would now be more like bodega owners,” Scott Barton, an assistant adjunct food studies professor at New York University and Queens College, said. “They are a bridge culture, in my mind, to integrate some ‘tropical’ products and foodstuffs or ways of cooking that might occur in oral transmission in the buying and selling of products in a grocery or market.”"
+          },
+          {
+            "type": "text",
+            "value": "With the rise of the Harlem Renaissance came the development of jazz and blues music in Harlem. The start of Prohibition in 1920 turned Harlem into a destination for many speakeasies and cabarets. However, many of these clubs were strictly segregated and catered only to white audiences. Only the performers and kitchen staff were Black and the menus catered to “downtown tastes.”"
+          },
+          {
+            "type": "text",
+            "value": "This exclusion of Black New Yorkers from Harlem nightlife led to the development of rent parties, which were social occasions in which tenants would hire local jazz or blues musicians as a way of paying their rents. The cost of admission to these rent parties lingered at around 25 cents, and in addition to bootleg alcohol, traditional Black cooking often attracted hundreds of community members. According to Harris, foods like okra gumbo, sweet potato pone, and Hoppin’ John—Carolina peas and rice—were among favorites at rent parties."
+          },
+          {
+            "type": "text",
+            "value": "“[Rent parties] were used for rent, for anything, for if somebody needed money for a wedding or a funeral sometimes, or to start a business. That was a way to not only get money, but engage your community in making that rent or getting that money,” Elias said."
+          },
+          {
+            "type": "text",
+            "value": "For some affluent Black figures like A’Lelia Walker, the daughter of the first self-made female millionaire in the country, Madame C.J. Walker, food was a means of catering to Harlem high society. Yet for much of the Harlem community, rent parties were one of the only viable ways to survive. However, the stock market crash of 1929 halted these gatherings, and by 1934, Harlem faced an unemployment rate of 48 percent."
+          },
+          {
+            "type": "text",
+            "value": "Following what Harris described as a decade of “celebrations of the secular world,” the 1930s saw Harlemites return to church life. According to Miller, churches were historically central to Black communities in the rural South, in part due to the geographical isolation of the area. The church acted as the “glue and social fabric of a community,” and one way in which church brought people together was through food. In Harlem, churches often fed the hungry for free, especially following the Great Migration, since migrants to Harlem were not always welcomed with open arms."
+          },
+          {
+            "type": "text",
+            "value": "“Getting a job was a struggle. If you got a job, you often weren’t paid what you should have been paid, and so churches filled the breach by providing food—sometimes cooked meals that were cheap, or just providing the raw ingredients so people could cook at home,” Miller said."
+          },
+          {
+            "type": "text",
+            "value": "One of the leading church figures at the time was Father Divine, a reverend who lived in Harlem from 1932 to 1942. Father Divine, who often preached about racial equality, hosted lavish banquets in Harlem for the community, serving dishes like roast duck and lamb stew. When Divine arrived in Harlem, he also began to acquire housing projects called “heavens” where people could stay while searching for jobs and paying a low rent. He acquired many restaurants that were economical and cash only, which extended from Harlem to Los Angeles and Seattle."
+          },
+          {
+            "type": "text",
+            "value": "<b>Arturo Schomburg: Preserver of culinary history</b>"
+          },
+          {
+            "type": "text",
+            "value": "Arturo Schomburg, the namesake of the Schomburg Center for Research in Black Culture, was a Puerto Rican historian of African and German descent who co-founded the Negro Society for Historical Research. Schomburg was a leading figure in the Harlem Renaissance and was also a major collector of Black artifacts, including slave narratives, paintings, letters, and essays. However. Schomburg is lesser known for his contributions to the culinary world, which continue to inspire researchers and cooks today."
+          },
+          {
+            "type": "text",
+            "value": "In 1930, Schomburg began to write a cookbook that intended to compile 400 recipes showcasing Black culinary diversity. However, the cookbook was never finished, and at the time of his death, Schomburg had only completed a proposal for the cookbook’s contents. The 22-page book contained just one recipe, but it proposed all sorts of creative recipes for a hypothetical cookbook including turtle soup, squab pies, kidney omelets, and fig ice cream. His cookbook has even helped to document Black cuisine today, and as <a href=\"https://www.atlasobscura.com/articles/arturo-schomburg-cookbook\">Atlas Obscura</a> writes in a recent article, Schomburg’s cookbook inspired two African-American cookbooks by authors Rafia Zafar and Toni Tipton-Martin."
+          },
+          {
+            "type": "text",
+            "value": "Doris Witt, an associate professor at the University of Iowa, was one of the first to write about the cookbook in her book “Black Hunger: Food and the Politics of U.S. Identity.” According to Witt, Schomburg’s work would “show the diversity of foodways of African Americans in the South and elsewhere in the country, he would talk about famous chefs’ sort of regional specialties.”"
+          },
+          {
+            "type": "text",
+            "value": "“He was indeed conceptualizing Black foodways in America as from a kind of diasporic vantage point in the sense that he took it for granted that there were retentions from Africa that enslaved people have brought with them, which wasn’t always necessarily the case back in the time like the 1920s or whenever,” Witt said. “You didn’t have a fully widespread recognition that the people who were captured into slavery brought with them … religious practices, food practices, seeds that had been part of their culture before they were enslaved.”"
+          },
+          {
+            "type": "text",
+            "value": "According to Witt, Schomburg was writing during a period of debate concerning how scholars could conceptualize African American history, either focusing on the elite African Americans that W.E.B. DuBois termed the “Talented Tenth” or telling history from the bottom up. Witt noted that Schomburg’s cookbook would have looked at the cultural practices of the everyday “masses of people” and not just great men and their great deeds."
+          },
+          {
+            "type": "text",
+            "value": "Witt emphasized that Schomburg recognized early in history the importance of food as a cultural practice, taking it upon himself to develop an archive about it. Although still relatively unknown, the Schomburg cookbook gave power to the common chef who brought their community together through cooking."
+          },
+          {
+            "type": "text",
+            "value": "Today, the Schomburg Center features a collection of dozens of takeout menus dating back as early as the 1890s. Notable menus in the collection include a 1946 menu from the Joe Louis Restaurant, owned by the professional boxer, which offered dishes like Creole shrimp with rice for $1.25; a 1925 menu from the Cotton Club, which featured a selection of European-American dishes like Welsh rarebit and filet mignon, as well as Chinese-American options like chop suey and chow mein; and a 1960s menu from Sylvia’s Restaurant featuring soul food favorites for around $4.00."
+          },
+          {
+            "type": "text",
+            "value": "<b>The 1960s: Debate, reform, and soul</b>"
+          },
+          {
+            "type": "text",
+            "value": "The concept of soul food as a cuisine began to gain traction in the 1960s. According to Elias, the 1960s were a period of debates over soul food as a representation of Black foodways and as a cuisine itself."
+          },
+          {
+            "type": "text",
+            "value": "“[Soul food] was a way for African Americans to champion their culture, to take a culture that had been so disregarded, so disrespected and to say, look, we have these beautiful creations, these things that you, whoever you are, want to eat,” Elias said."
+          },
+          {
+            "type": "text",
+            "value": "Wells Supper Club, opened in 1938, is accredited with first putting chicken and waffles together on the same plate, one of Harlem’s first soul food restaurants, while Copeland’s, a landmark soul food restaurant, has been open for over 50 years since the late 1950s."
+          },
+          {
+            "type": "text",
+            "value": "Another major proponent of soul food as a distinct cuisine has been Sylvia Woods, the self-proclaimed “Queen of Soul Food” and founder of Sylvia’s Restaurant. After working for eight years at a local Harlem luncheonette, Woods was offered ownership of the space, which featured just a few booths and a counter. Sylvia’s offered classic Southern dishes like fried catfish and pork and greens, and the restaurant spiked in popularity after a mention by New York magazine critic Gael Greene."
+          },
+          {
+            "type": "text",
+            "value": "The restaurant continues to prosper due to Woods’ world-famous recipes and creative marketing techniques. According to Miller, a meal at Sylvia’s includes tours that take people to notable Black churches in the Harlem area. In “High on the Hog,” Harris describes the lively Sunday scene at Sylvia’s as “packed not only with camera be-draped tourists looking for a taste of African American culture but also with Harlem natives, who remain loyal.”"
+          },
+          {
+            "type": "text",
+            "value": "This admiration for soul food in the 1960s was also met with some backlash in areas like Harlem. However, for Barton, the term “soul food” has a “problematic demarcation” because to him, every culture has its own soul food. He believes that there are inherent issues with soul food connoting food made by and for Black people, while the term “Southern food” implicitly encapsulates food meant for white people."
+          },
+          {
+            "type": "text",
+            "value": "“Where do we draw a line and distinguish, and where do we value one and give funding for young restaurateurs who are producing that genre and denigrate another?” Barton asked."
+          },
+          {
+            "type": "text",
+            "value": "In her book “Black Hunger,” Witt discusses the memoir “Soul on Ice” by Black Panther leader Eldridge Cleaver, who considered eating soul food as counterrevolutionary Black bourgeois ideology. He argued that soul food represented economic mobility among middle and upper-class Black Americans rather than being an authentic Black cultural practice."
+          },
+          {
+            "type": "text",
+            "value": "The widening scope of the Nation of Islam during the 1950s and 1960s further contributed to the development of anti-soul food ideology. According to Witt, Nation of Islam leader Elijah Muhammad was “very hostile to foods associated with soul food like pork and cornbread,” in part because soul food was associated with the Black Christian church as well as Black femininity. As many Harlem residents left the Catholic church to join the Nation of Islam, a dismissive attitude toward soul food was exacerbated by the Nation of Islam’s strict dietary practices."
+          },
+          {
+            "type": "text",
+            "value": "Comedian and Vegetarian Activist Dick Gregory also opposed soul food, for he did not think the concept was indicative of what enslaved people actually ate; Gregory argued that enslaved people ate soil food––not soul food."
+          },
+          {
+            "type": "text",
+            "value": "“He said most enslaved people didn’t have access to a lot of meat, nice cuts of pork or chicken or things like that, that their diet was sort of vegetable centered with grains, cornbread and supplemented vegetables and fruits, things that grew in their own garden,” Witt said."
+          },
+          {
+            "type": "text",
+            "value": "Gregory argued that many soul food dishes were unhealthy to eat, with too much salt and fat. Instead, he promoted the idea that a reconceptualized version of “soul food” could be beneficial to Black health, going so far as to promote a fruitarian diet."
+          },
+          {
+            "type": "text",
+            "value": "Gregory’s emphasis on vegetarianism and healthy, authentic soul food changed many Harlemites’ attitudes toward the unhealthy preparations of soul food. In Harlem, a handful of vegan soul food spots like Seasoned Vegan opened recently, and Harlem-based Black chefs have published vegan soul food cookbooks as well. Miller considers the growth of vegan soul cooking not as a departure from traditional forms but rather a homecoming."
+          },
+          {
+            "type": "text",
+            "value": "“If you actually look at African American food traditions all the way back to West Africa, vegetables are a huge part of the cuisine,” Miller said. “It’s a total disconnect with how soul food is generally perceived because the way that most people think about soul food is that it’s just fried chicken, barbecue, biscuits, glorious desserts … but they don’t think about all these other things like okra, hibiscus, the various different vegetable preparations that are part of soul food.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>The growth of African Diaspora cooking</b>"
+          },
+          {
+            "type": "text",
+            "value": "Although Harlem has historically been known for its soul food establishments, the neighborhood experienced a migration of West Africans and East Africans around 40 years ago. Harlem is home to small enclaves of Senegalese and Ethiopian immigrants, as well as a handful of Somalian, Nigerian, and Ivorian immigrants; many of these immigrants moved to Harlem for the economic opportunities that come with urban life, as well as affordable rents."
+          },
+          {
+            "type": "text",
+            "value": "“I think it’s the fact that a lot of companies were saying we need workers, and the way it usually worked was chain migration as we call it today,” Miller said. “So somebody comes, they get settled, and they say, ‘Hey cousin or brother, sister, or family member, you should come join me in New York. That the place you’re in, you’re not going anywhere there, but here’s a place of opportunity.’”"
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/arts-and-entertainment/2019/11/07/little-senegal-a-home-for-west-african-food-and-culture-in-harlem/\">Little Senegal</a>, which features shops and restaurants established by people of francophone West African heritage, runs along 116th Street. There are about 10 Senegalese restaurants now open in Harlem, although Barton notes that “there used to be a little bit more diversity in some of the West African presentation.” Little Senegal has been shrinking due to increasing rents that have pushed some Senegalese to nearby boroughs like the Bronx."
+          },
+          {
+            "type": "text",
+            "value": "At restaurants like Le Baobab Gouygui, popular dishes include suppu kandja, fish served in a fragrant okra sauce; lamb maffe, lamb prepared in a creamy peanut sauce; and domada yapp, lamb stewed in tomato sauce mixed with wheat flour. Nearby Pikine is known for its Thiéboudienne, a national Senegalese dish consisting of grilled fish, broken rice, tomato sauce, and cabbage, as well as North African dishes like lemchenk, roasted lamb served with onions. Adja Khady Market specializes in Senegalese food imports as well as products from neighboring countries like Sierra Leone and Ivory Coast. Barton noted that a handful of Senegalese eateries in the area like Sapphire also draw from French cuisine as well."
+          },
+          {
+            "type": "text",
+            "value": "Safari, the only Somali restaurant in the city, is also in Little Senegal. The Italian, Indian, and Arabic roots of Somali cuisine are reflected in dishes like mango curry chicken with berbere spice mix and chicken suqaar prepared with Somali hot sauce and served with either rice or sabaayad, Somali flatbread similar to Indian naan."
+          },
+          {
+            "type": "text",
+            "value": "Barton noted that Harlem has also had an unofficial “Little Ethiopia” by Frederick Douglass Boulevard for decades. According to Barton, Ethiopian spots in Harlem and the city at large tend to be owned and operated by women and are “embraced by the community.”"
+          },
+          {
+            "type": "text",
+            "value": "Barton recalled going to an Ethiopian restaurant in Harlem back in the 1980s that featured live Ethiopian jazz, which would bring together clientele like immigrant taxi drivers, working-class locals, and people of all cultural backgrounds. He also said that Ethiopian restaurants often survive across generations due to the economics behind how dishes are prepared."
+          },
+          {
+            "type": "text",
+            "value": "“It’s a cuisine based on stews and slow cooking, so they can do that in a restaurant setting and have, I’m guessing, the equivalency of steam tables or prepared foods that are reheated, because it is about slow-simmered stews for the most part, some vegetables like collard greens and steamed carrots and cabbage, so that if they can meet their rent can work their way into the next hopefully generation,” Barton said."
+          },
+          {
+            "type": "text",
+            "value": "According to Barhany, the owner of Ethiopian-Israeli restaurant Tsion Cafe, there is a strong Ethiopian community in Harlem that appreciates differences; as an Ethiopian Jew who lived in Israel, Barhany has interacted with fellow Ethiopian-Israelis as well as Ethiopian-Italians and recent migrants from Addis Ababa. Barhany also founded BINA, or Beta Israel of North America, for fellow Ethiopian-Jews."
+          },
+          {
+            "type": "text",
+            "value": "“Going back in terms of the history of Harlem in general, you have the Abyssinian Church which was actually formed and founded by Ethiopian missionaries,” Barhany said. “So there is the impact, the stamp of Ethiopia in general [on Harlem], not necessarily being Jewish but being Ethiopian, there is the connection.”"
+          },
+          {
+            "type": "text",
+            "value": "Many Caribbean and West Indian immigrants have settled in Harlem, opening restaurants like Sisters’ Caribbean Cuisine, Wat’s On Your Plate, and Kingston. These restaurants and small businesses have been supported in part by Harlem’s Caribbean Cultural Center African Diaspora Institute."
+          },
+          {
+            "type": "text",
+            "value": "Harlem has also been the site of what Miller calls “diasporic dinners,” wherein prominent chefs who are children of African immigrants track their heritage through four-course dinners. For example, a chef could invite diners over to their place and serve them successive dishes from West Africa, the Caribbean, and the South, before concluding with a dish that represents who they are as a chef today."
+          },
+          {
+            "type": "text",
+            "value": "<b>Keeping tradition alive, 100 years later</b>"
+          },
+          {
+            "type": "text",
+            "value": "What started as street vendors selling pig’s feet out of baby carriages developed into one of the city’s most diverse neighborhoods serving cuisines from all over the world. According to Valerie Wilson, Harlem’s restaurants are trendsetters that lead culinary movements and inspire restaurant concepts that are practiced nationwide."
+          },
+          {
+            "type": "text",
+            "value": "“It’s a testament to the strength of the past to launch new brands and new concepts, and I think that’s a hallmark of what the dining scene in Harlem is,” Wilson said. “Many of the restaurants here are concept-driven and less chef-driven, and they tend to be things that get replicated, or that have longevity here, because they're usually these unique concepts that are not anywhere else.”"
+          },
+          {
+            "type": "text",
+            "value": "One major Harlem restaurant that reinterpreted soul food was Miss Mamie’s Spoonbread Too, started by former model Norma Jean Darden. Darden and her sister wrote one of the first Black cookbooks following the civil rights era titled “Spoonbread and Strawberry Wine,” which was so successful that she established Spoonbread Catering, one of Harlem’s best-known caterers. Eventually, Darden opened up Miss Mamie’s Spoonbread Too in 1998, which featured both Southern staples as well as more international dishes."
+          },
+          {
+            "type": "text",
+            "value": "More recently, Harlem institutions like Melba’s and Amy Ruth’s greeted the community with new twists on classic soul food staples. Founded in 1999, Amy Ruth’s increased the popularity of chicken and waffles in Harlem as well as other waffle pairings like fried catfish or pork chop. Melba’s was opened in 2005 after Harlem native Melba Wilson decided to apply the business savvy she earned working at Sylvia’s toward a more modern eatery. Wilson’s eatery helped keep Harlem’s soul food traditions alive through dishes like Southern Chicken and soul food spring rolls."
+          },
+          {
+            "type": "text",
+            "value": "Celebrity chef Marcus Samuelsson, alongside Andrew Chapman, opened Red Rooster Harlem to celebrate the culinary traditions of Harlem’s diverse cultures. The restaurant takes its name from the legendary Harlem speakeasy that attracted figures like James Baldwin and Nat King Cole."
+          },
+          {
+            "type": "text",
+            "value": "Innovative fusion concepts have been at the forefront of Harlem’s new and hip restaurant scene. After helping create the Afro-Asian menu for Harlem’s The Cecil, Joseph Johnson opened FIELDTRIP in 2019. His restaurant’s rice bowls draw from Southern, Cajun, West African, and Asian culinary traditions. Teranga, co-founded by Senegalese chef Pierre Thiam, blends the many cuisines of Africa, from Ghana to Nigeria to Gambia. Harlem newcomer Archer & Goat also serves inventive dishes reflecting cuisines from countries like Ecuador, Puerto Rico, and Bangladesh. Fusion dishes include Chicken Vindaloo Arepas and Rogan Josh with lamb, pappardelle, and avocado vinaigrette."
+          },
+          {
+            "type": "text",
+            "value": "Today, organizations like Harlem Park to Park are helping keep Black-owned small businesses alive and thriving, especially during the COVID-19 pandemic. Gentrification along with rising food and rent prices continues to jeopardize many of Harlem’s longtime Black-owned restaurants, but community initiatives and funding opportunities have assisted these restaurants that preserve so much of Harlem’s rich culinary history."
+          },
+          {
+            "type": "text",
+            "value": "“We’ve been all done a huge disservice to have so much of it left out of how we learn and understand history because we would all be a lot better off knowing the truth about ourselves, so we can have a real understanding of how to move forward together,” Wilson said."
+          },
+          {
+            "type": "text",
+            "value": "Harlem Park to Park has represented over 250 business owners committed to Harlem’s heritage and economic growth. This organization has partnered with others like the Columbia-Harlem Small Business Development Center for initiatives such as Shop Harlem Made and the Harlem Local Vendor Program, a business accelerator program for Harlem-based makers and manufacturers."
+          },
+          {
+            "type": "text",
+            "value": "During the COVID-19 pandemic, Harlem Park to Park greatly aided small businesses by serving as an informational resource on everything from funding to rent policies. Additionally, the organization partnered with local businesses on a grocery initiative for furloughed hospitality and frontline workers. It was one of 16 community partners with the Local Initiatives Support Corporation for the Small Business Relief & Recovery Grant Fund, which provided grants of $10,000 to nine small businesses like Safari Restaurant and Lee Lee’s Rugelach."
+          },
+          {
+            "type": "text",
+            "value": "This February, Harlem businesses are celebrating the return of 25 percent indoor dining with $25 meals during <a href=\"https://www.harlemrestaurantweek.com/\">Harlem Restaurant Week</a>. Participating restaurants include Lolo’s Seafood Shack, Ponty Bistro Harlem, Au Jus Oklahoma Barbecue, and Santiago’s Beer Garden."
+          },
+          {
+            "type": "text",
+            "value": "Additionally, UberEats funded a program called the Renaissance Pavilion, which paired six Black-owned businesses with local artists and architects to create custom outdoor dining structures."
+          },
+          {
+            "type": "text",
+            "value": "From chaotic rent parties to unfinished cookbooks to the vibrant and diverse Harlem restaurant scene, one thing has united Harlemites from all social classes and ethnicities: food."
+          },
+          {
+            "type": "text",
+            "value": "“Eating is such a common human element. We can always, no matter how different we are, no matter how different viewpoints we may have, when it comes to anything including politics we can always sit down and break bread together, and learning about each other’s culinary heritage is a great way to just really understand each other,” Chowdhury said."
           },
           {
             "type": "graphic",
@@ -44,11 +385,15 @@
           },
           {
             "type": "text",
-            "value": "<i>Arts & Entertainment editor Noah Sheidlower can be contacted </i><a href=\"mailto:noah.sheidlower@columbiaspectator.com\"><i>noah.sheidlower@columbiaspectator.com</i></a><i>.</i><i> Follow him on Twitter </i><a href=\"https://twitter.com/NSheidlower\"><i>@NSheidlower</i></a><i>.</i>"
+            "value": "<i>Arts & Entertainment editor Noah Sheidlower can be contacted at </i><a href=\"mailto:noah.sheidlower@columbiaspectator.com\"><i>noah.sheidlower@columbiaspectator.com</i></a><i>.</i><i> Follow him on Twitter </i><a href=\"https://twitter.com/NSheidlower\"><i>@NSheidlower</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Map developed by newsroom developer Victoria Geh. She can be contacted at </i><a href=\"mailto:victoria.geh@columbiaspectator.com\"><i>victoria.geh@columbiaspectator.com</i></a><i>. Follow her on YouTube </i><a href=\"https://www.youtube.com/c/victoriageh\"><i>@victoriageh</i></a><i>.</i>"
           }
         ],
         "headline": "From baby carriage food carts to fusion soul food spots: A look into Harlem’s complex restaurant scene",
-        "date": "February 15, 2020",
+        "date": "February 18, 2021",
         "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Noah-Sheidlower/\">Noah Sheidlower</a>",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
